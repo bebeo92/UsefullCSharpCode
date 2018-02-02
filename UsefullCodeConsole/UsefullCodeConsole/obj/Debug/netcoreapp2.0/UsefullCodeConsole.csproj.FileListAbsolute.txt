@@ -1,0 +1,11 @@
+C:\MyCode\UsefullCSharpCode\UsefullCodeConsole\UsefullCodeConsole\bin\Debug\netcoreapp2.0\UsefullCodeConsole.deps.json
+C:\MyCode\UsefullCSharpCode\UsefullCodeConsole\UsefullCodeConsole\bin\Debug\netcoreapp2.0\UsefullCodeConsole.runtimeconfig.json
+C:\MyCode\UsefullCSharpCode\UsefullCodeConsole\UsefullCodeConsole\bin\Debug\netcoreapp2.0\UsefullCodeConsole.runtimeconfig.dev.json
+C:\MyCode\UsefullCSharpCode\UsefullCodeConsole\UsefullCodeConsole\bin\Debug\netcoreapp2.0\UsefullCodeConsole.dll
+C:\MyCode\UsefullCSharpCode\UsefullCodeConsole\UsefullCodeConsole\bin\Debug\netcoreapp2.0\UsefullCodeConsole.pdb
+C:\MyCode\UsefullCSharpCode\UsefullCodeConsole\UsefullCodeConsole\obj\Debug\netcoreapp2.0\UsefullCodeConsole.csprojResolveAssemblyReference.cache
+C:\MyCode\UsefullCSharpCode\UsefullCodeConsole\UsefullCodeConsole\obj\Debug\netcoreapp2.0\UsefullCodeConsole.csproj.CoreCompileInputs.cache
+C:\MyCode\UsefullCSharpCode\UsefullCodeConsole\UsefullCodeConsole\obj\Debug\netcoreapp2.0\UsefullCodeConsole.AssemblyInfoInputs.cache
+C:\MyCode\UsefullCSharpCode\UsefullCodeConsole\UsefullCodeConsole\obj\Debug\netcoreapp2.0\UsefullCodeConsole.AssemblyInfo.cs
+C:\MyCode\UsefullCSharpCode\UsefullCodeConsole\UsefullCodeConsole\obj\Debug\netcoreapp2.0\UsefullCodeConsole.dll
+C:\MyCode\UsefullCSharpCode\UsefullCodeConsole\UsefullCodeConsole\obj\Debug\netcoreapp2.0\UsefullCodeConsole.pdb
