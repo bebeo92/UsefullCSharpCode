@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace UsefullCodeConsole.Extensions
 {
@@ -85,6 +86,18 @@ namespace UsefullCodeConsole.Extensions
 		    }
 
 		    return input;
+	    }
+
+	    public static string EscapeFileName(this string fileName)
+	    {
+		    //Escape window not allowed character https://msdn.microsoft.com/en-us/library/windows/desktop/aa365247(v=vs.85).aspx		    
+		    fileName = Regex.Replace(fileName, "[<>:\"/\\\\|?,*]", "");
+		    //Filter not printable ASCII characters
+		    var specialCharacter = fileName.ToCharArray().Where(x => x < 32 || x > 126);
+		    var fileNameChar = fileName.ToCharArray().ToList();
+		    fileNameChar.RemoveAll(x => specialCharacter.Contains(x));
+		    fileName = new string(fileNameChar.ToArray());
+		    return fileName;
 	    }
     }
 }
